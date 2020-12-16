@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'OpenSans-Light';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/OpenSans-Light.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-CondLight';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/OpenSans-CondLight.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-Lightitalic';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/OpenSans-LightItalic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-CondLightItalic';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/OpenSans-CondLightItalic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/OpenSans-Regular.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-Italic';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/OpenSans-Italic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  font-weight: 600;
+  font-style: normal;
+  src: url("../fonts/OpenSans-SemiBold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBoldItalic';
+  font-weight: 600;
+  font-style: normal;
+  src: url("../fonts/OpenSans-SemiBoldItalic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/OpenSans-Bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-BoldItalic';
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/OpenSans-BoldItalic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-CondBold';
+  font-weight: 700;
+  font-style: normal;
+  src: url("../fonts/OpenSans-CondBold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-ExtraBold';
+  font-weight: 800;
+  font-style: normal;
+  src: url("../fonts/OpenSans-ExtraBold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans-ExtraBoldItalic';
+  font-weight: 800;
+  font-style: normal;
+  src: url("../fonts/OpenSans-ExtraBoldItalic.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: 'SNES\ Italic';
+  font-weight: 300;
+  font-style: normal;
+  src: url("../fonts/SNES Italic.ttf") format("ttf");
+}
+/*# sourceMappingURL=fonts.css.map */

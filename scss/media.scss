@@ -1,0 +1,581 @@
+@media (max-width: 1218px) {
+    .mail {
+        &__input {
+            width: 550px;
+        }
+    }
+    .mentro {   
+     &__photo {
+        width: 525px;
+     }
+    }
+}
+@media (max-width: 1120px) {
+
+}
+@media (max-width: 1110px) {
+    .car-brend {
+        &__text {
+            &::before {
+                right: 140px;
+            }
+        }
+    }
+    
+}
+@media (max-width: 1060px) {
+    .intro {
+        margin-top: 60px;
+    }
+    .intro-head__discover {
+           right: 0;
+    }
+    .product {
+        &__items {
+            flex-wrap: wrap;
+        }
+        &__card {
+            margin-bottom: 10px;
+        }
+    }
+    .mentro {
+        margin-top: 21px;
+        &__items {
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        &__card {
+            margin-bottom: 10px;
+        }
+    }
+  .mail {
+      &__comment-btn {
+          right: 260px;
+      }
+  }
+}   
+
+@media (max-width: 1012px) {
+    .product__shopping {
+        padding: 93px 80px 91px 84px;
+    }
+    .footer {
+        &__logo {
+            margin-left: 30px;
+        }
+        &__top-link {
+            margin-right: 15px;
+        }
+    }
+}
+
+@media (max-width: 954px) {
+       .intro {
+           margin-top: 40px;
+       }
+       .product {
+           &__widgts {
+               margin-top: 40px;
+           }
+           &__shipping {
+               padding: 78px 60px 75px 64px;
+           }
+           &__shopping {
+               padding: 78px 60px 75px 64px;
+           }
+           &__prev-btn {
+               width: 175px;
+           }
+       }
+       .mail {
+            margin-top: 55px;
+           &__title {
+               margin-bottom: 30px;
+           }
+           &__input {
+               margin-top: 40px;
+           }
+           &__comment-btn {
+                right: 215px;
+                top: 65px;
+           }
+           &__btn {
+               margin-top: 40px;
+           }
+       }
+       .footer {
+           &__menu {
+               margin-left: 95px;
+           }
+           &__top-link {
+               margin-right: 5px;
+           }
+           &__sochial-lick {
+               margin-left: 15px;
+           }
+           &__logo {
+               margin-left: 15px;
+           }
+       }
+}
+
+@media (max-width: 904px) {
+       .product {
+           &__shopping-info {
+               margin-left: 75px;
+           }
+       }
+       .footer {
+           &__inner {
+               display: block;
+           }
+           &__top-link {
+               margin-left: 20px;
+           }
+           &__sochial {
+               margin-top: 20px;
+           }
+       }
+}
+
+@media (max-width: 860px) {
+    .product {
+        &__shipping-text {
+            margin-left: 15px;
+        }
+        &__shopping-info {
+            margin-left: 45px;
+        }
+        &__items {
+           justify-content: center;
+        }
+    }
+       .mail {
+           &__comment-btn {
+              right: 170px;
+           }
+       }
+}
+
+@media (max-width: 766px) {
+    .product {
+        &__widgts {
+            display: block;
+        }
+        &__shopping {
+            padding: 78px 40px 75px 160px;
+            width: 100%;
+        }
+        &__shipping {
+            width: 100%;
+            padding: 78px 60px 75px 160px;
+        }
+        &__prev-btn {
+            border-top: 1px solid rgba(255, 255, 255, 0.308);
+            width: 100%;
+            height: 120px;
+            padding: 30px 71px;
+        }
+    }
+    .mentro {
+        &-photo {
+            width: 600px;
+        }
+    }
+       .mail {
+           &__comment-btn {
+               right: 120px;
+           }
+       } 
+       .footer {
+           &__top-link{
+              margin-left: 5px;
+           }
+       }
+}
+
+@media (max-width: 700px) {
+        .footer {
+            &__top-link {
+                font-size: 9px;
+            }
+            &__sochial {
+                margin-top: 10px;
+            }
+        }
+}
+
+@media (max-width: 650px) {
+       .mail {
+           &__comment-btn {
+               right: 60px;
+           }
+       }
+       .footer {
+           &__menu {
+               margin-left: 60px;
+           }
+       }
+}
+
+@media (max-width: 580px) {
+       .header {
+           &__login-icon {
+               display: none;
+           }
+           &__register {
+               display: none;
+           }
+           &__menu-burger {
+               display: inline-block;
+               margin-left: 26px;
+           }
+       }
+       .intro {
+           &__inner {
+               display: block;
+           }
+           &__title {
+               text-align: center;
+           }
+           &__nav {
+               display: none;
+           }
+           &-head__title {
+            color: #000;
+           }
+           &-head__discover {
+                position: relative;
+                width: 100%;
+                height: 90px;
+                display: flex;
+                padding: 41px 20px;
+                justify-content: space-between;
+           }
+           &-head__title {
+               font-size: 26px;
+           }
+           &-head__text {
+               transform: rotateZ(0deg);
+               padding: 0;
+               &::after {
+                   top: -10px;
+               }
+           }
+           &-head__number {
+               padding: 0;
+           }
+           &-head__content {
+               right: 143px;
+               top: 70px;
+           }
+       }
+       .slick {
+           &-dots {
+               margin: 0 auto;
+               top: 310px;
+               left: 165px;
+           }
+       }
+}
+
+@media (max-width: 535px) {
+       .product {
+           &__shopping {
+               display: block;
+               padding-left: 10px;
+               text-align: center;  
+               &-info {
+                   margin-top: 10px;
+               } 
+               &-icon {
+                   margin-left: 40px;
+               }      
+           }
+           &__shipping {
+               display: block;
+               padding-left: 60px;
+               text-align: center; 
+               &-text {
+                   margin-top: 10px;
+                   margin-left:  0px;
+               }
+           }
+       }
+       }
+       .mail {
+        &__input {
+            width: 435px;
+        }
+       .footer {
+           &__inner {
+               
+           }
+           &__top-link {
+               font-size: 14px;
+           }
+       }
+} 
+
+@media (max-width: 470px) {
+    .intro {
+         &-head__content {
+             right: 30px;
+         }
+    }
+    .slick {
+        &-dots {
+            left: 95px;
+        }
+    }
+   .mentro {
+       &__card-info {
+           left: 60px;
+           top: 130px;
+       }
+       &__card-nav {
+           display: none;
+       }
+       &-photo {
+           width: 470px;
+       }
+       &__photo {
+           width: 470px;
+       }
+       &__card-burger-btn {
+           left: 370px;
+       }
+   }
+   .mail {
+       &__comment-btn {
+           right: 30px;
+       }
+   }
+   .footer {
+       margin-top: 70px;
+       &__items {
+           font-size: 11px;
+       }
+   }
+}
+
+@media (max-width: 400px) {
+    .intro {
+        &-head-btn {
+            padding: 25px 50px
+        }
+    }
+    .slick {
+        &-dots {
+            left: 55px;
+        }
+    }
+       .mentro {
+           &__card-burger-btn {
+               left: 290px;
+           }
+           &__card-btn {
+               left: 85px;
+           }
+        &__card-info {
+            display: block;
+            text-align: center;
+            left: 85px;
+            top: 80px;
+        }
+        &__card-text {
+            margin-left: 0px;
+        }
+        &__card-row {
+            height: 173px;
+        }
+        &-photo {
+            width: 365px;
+        }
+        &__photo {
+            width: 365px;
+        }
+       }
+       .mail {
+           &__input {
+               width: 345px;
+           }
+       }
+       .footer {
+          &__sochial {
+              margin-top: 30px;
+          }
+           &__nav {
+               display: block;
+           }
+           &__menu {
+               margin-bottom: 80px;
+               margin-left: 140px;
+           }
+           &__title {
+               text-align: center;
+           }
+           &__logo {
+               display: none;
+           }
+       }
+}
+
+@media (max-width: 358px) {
+    .intro {
+        &-head__content {
+            right: 60px;
+        }
+        &-head__title {
+            font-size: 18px;
+        }
+    }
+    .slick {
+        &-dots {
+            left: 100px;
+            button {
+                width: 10px;
+                height: 10px;
+                background-color: #fff;
+                margin-right: 10px;
+                color: #fff;
+                font-size: 1px;
+                padding: 5px;
+            }
+        }
+        &-active {
+            #slick-slide-control00,
+            #slick-slide-control01,
+            #slick-slide-control02,
+            #slick-slide-control03,
+            #slick-slide-control04 {
+                color: #f8dd5a;
+            }
+    }
+}
+       .product {
+           &__photo {
+               width: 365px;
+           }
+           &__card-hot {
+               left: 30px;
+           }
+           &__card-pic {
+               left: 80px;
+           }
+           &__card-arrows {
+               display: none;
+           }
+           &__cards {
+               display: none;
+           }
+       }
+       .mentro {
+        &-photo {
+            width: 335px;
+        }
+        &__photo {
+            width: 335px;
+        }
+        &__card-burger-btn {
+            left: 270px;
+        }
+       }
+       .mail {
+           &__input {
+              width: 310px;
+           }
+       }
+       .footer {
+           &__sochial-link {
+               margin-left: 15px;
+           }
+       }
+}
+
+@media (max-width: 320px) {
+        .header {
+            &__menu-burger {
+                margin-left: 0px;
+            }
+        }
+        .intro {
+            &-head__content {
+              right: 22px;
+            }
+        }
+        .product {
+            &__button-group {
+               display: none;
+            }
+            &__shopping-box-icon {
+                margin-left: 30px;
+            }
+            &__photo {
+                width: 320px;
+            }
+            &__card {
+                &-btn {
+                    bottom: -27px;
+                }
+                &-like {
+                    left: 200px;
+                    bottom: -27px;
+                }
+                &-tool {
+                    left: 251px;
+                    bottom: -27px;
+                }
+            }
+        }
+        .mentro {
+            &__contnet {
+                margin-top: 62px;
+            }
+            &__items {
+                margin-top: 40px;
+            }
+            &__card-info {
+                left: 65px;
+                top: 145px;
+            }
+            &__card-burger-btn {
+                left: 230px;
+            }
+            &__card-btn {
+                left: 65px;
+            }
+            &-photo {
+                width: 300px;
+                height: 366px;
+                object-fit: cover;
+            }
+            &__photo {
+                width: 300px;
+                height: 177px;
+            }
+        }
+        .mail {
+            &__input {
+                width: 280px;
+            }
+            &__comment-btn {
+                right: 18px;
+            }
+        }
+        .footer {
+            &__top-info {
+                display: block;
+                text-align: center;
+            }
+            &__top-link {
+                font-size: 15px;
+            }
+            &__sochial-link {
+                margin-left: 13px;
+            }
+            &__menu {
+                margin-left: 60px;
+            }
+        }
+}
